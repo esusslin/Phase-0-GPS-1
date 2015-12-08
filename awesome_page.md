@@ -6,8 +6,8 @@ some sort of code block
 
 [click here](http://daringfireball.net/projects/markdown/syntax)
 
-<<<<<<< HEAD
+HEAD
 new changeeeeee master branch
-=======
+
 \///
->>>>>>> new
+ new
